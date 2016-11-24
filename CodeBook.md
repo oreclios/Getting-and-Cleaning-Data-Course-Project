@@ -1,6 +1,7 @@
 The variables stored in 'tidy_data_set.txt' are enumerated bellow:
 
 SubjectId         -->   The Id code of the subjects.
+
 ActivityLabel     -->   The descriptive label of the activity.
 
 For the rest of variables, which are indicated in the following lines, the values in the data set are the average value for each subject and for each activity:
